@@ -1,2 +1,0 @@
-# c-
-Object Oriented Programming
